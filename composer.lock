@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "02a9b38095dd62e0115d582445024787",
+    "packages": [
+        {
+            "name": "mirazmac/unicode2bijoy",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mirazmac/Unicode2Bijoy.git",
+                "reference": "98f18adc09eec369c0eecc5f6201cb61d95467db"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/mirazmac/Unicode2Bijoy/zipball/98f18adc09eec369c0eecc5f6201cb61d95467db",
+                "reference": "98f18adc09eec369c0eecc5f6201cb61d95467db",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "mirazmac\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Miraz Mac",
+                    "email": "mirazmac@gmail.com"
+                }
+            ],
+            "description": "PHP class to convert unicode to Bijoy ANSI.",
+            "homepage": "https://github.com/mirazmac/Unicode2Bijoy",
+            "keywords": [
+                "bijoy",
+                "bijoy ansi",
+                "text",
+                "text processing",
+                "unicode"
+            ],
+            "time": "2016-11-27T13:47:42+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "platform-dev": []
+}

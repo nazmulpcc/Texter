@@ -1,0 +1,18 @@
+{
+    "name": "nazmulpcc/texter",
+    "description": "A PHP class which makes it easier to write Bangla text on images. Supports multi-line, align etc.",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "mirazmac/unicode2bijoy": "1.*"
+    },
+
+    "autoload": {
+        "psr-4": { "nazmulpcc\\": "src/" }
+    },
+
+    "suggest": {
+        "ext-gd": "to use GD library based image processing."
+    }
+}
