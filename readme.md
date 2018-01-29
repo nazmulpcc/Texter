@@ -9,7 +9,7 @@ Texter helps to write Bangla/English text on image with PHP GD. It also has feat
 	$texter->text('আমার সোনার বাংলা, আমি তোমায় ভালবাসি Lorem ipsum dolor sit amet.....')->write();
 ```
  **It will give you something like this:**
-![Result](http://i.imgur.com/phfgEqy.jpg "Result")
+![Result](https://i.imgur.com/esw9Msr.jpg "Result")
 
 ## Installation
 You can easily install **Texter** via composer or you can manually download the package and include them in your code.
